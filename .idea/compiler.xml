@@ -20,8 +20,8 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="naoffer-intf" options="-parameters" />
-      <module name="naoffer-service" options="" />
-      <module name="naoffer-web" options="" />
+      <module name="naoffer-service" options="-parameters" />
+      <module name="naoffer-web" options="-parameters" />
       <module name="naofferintf" options="-parameters" />
       <module name="推推" options="-parameters" />
     </option>
